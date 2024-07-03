@@ -1,5 +1,5 @@
 # linux-no-stupid-question
-a collection of things that people who already knows think are self evident, when they are not to beginners
+a collection of things I ran into that people who already knows think are self evident, when they are not to beginners
 
 I just recently started using Endeavour OS, an Arch based distro. I have run into so many problems, where on forums I see responses like "Just read the documentation" or "Have you tried searching it up". 
 
